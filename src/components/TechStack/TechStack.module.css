@@ -1,0 +1,37 @@
+.techStack {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.techStack h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+    max-width: 1200px;
+    margin: 3rem auto 0;
+}
+
+.tech {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.tech:hover {
+    transform: translateY(-5px);
+}
+
+@media screen and (max-width: 768px) {
+    .grid {
+        grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    }
+}

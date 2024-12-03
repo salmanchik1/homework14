@@ -1,0 +1,8 @@
+.switch {
+    cursor: pointer;
+    width: 1.5rem;
+    height: 1.5em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}

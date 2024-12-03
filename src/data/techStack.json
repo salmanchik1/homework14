@@ -1,0 +1,64 @@
+{
+    "technologies": [
+        {
+            "id": 1,
+            "name": "HTML5",
+            "icon": "/src/assets/icons/tech/html5.svg"
+        },
+        {
+            "id": 2,
+            "name": "CSS3",
+            "icon": "/src/assets/icons/tech/css3.svg"
+        },
+        {
+            "id": 3,
+            "name": "SASS",
+            "icon": "/src/assets/icons/tech/sass.svg"
+        },
+        {
+            "id": 4,
+            "name": "JavaScript",
+            "icon": "/src/assets/icons/tech/javascript.svg"
+        },
+        {
+            "id": 5,
+            "name": "TypeScript",
+            "icon": "/src/assets/icons/tech/typescript.svg"
+        },
+        {
+            "id": 6,
+            "name": "React",
+            "icon": "/src/assets/icons/tech/react.svg"
+        },
+        {
+            "id": 7,
+            "name": "Redux",
+            "icon": "/src/assets/icons/tech/redux.svg"
+        },
+        {
+            "id": 8,
+            "name": "Python",
+            "icon": "/src/assets/icons/tech/python.svg"
+        },
+        {
+            "id": 9,
+            "name": "Qt",
+            "icon": "/src/assets/icons/tech/qt.svg"
+        },
+        {
+            "id": 10,
+            "name": "Git",
+            "icon": "/src/assets/icons/tech/git.svg"
+        },
+        {
+            "id": 11,
+            "name": "NumPy",
+            "icon": "/src/assets/icons/tech/numpy.svg"
+        },
+        {
+            "id": 12,
+            "name": "PostgreSQL",
+            "icon": "/src/assets/icons/tech/postgresql.svg"
+        }
+    ]
+}

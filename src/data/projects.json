@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project One",
+      "description": "This is sample project description random things are here in description. This is sample project lorem ipsum generator for dummy project",
+      "image": "src/assets/images/projects/project1.jpg",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://example.com/project-one",
+      "codeUrl": "https://github.com/username/project-one"
+    },
+    {
+      "id": 2,
+      "title": "Project Two",
+      "description": "This is sample project description random things are here in description. This is sample project lorem ipsum generator for dummy project",
+      "image": "src/assets/images/projects/project2.jpg",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://example.com/project-two",
+      "codeUrl": "https://github.com/username/project-two"
+    }
+  ]
+}
